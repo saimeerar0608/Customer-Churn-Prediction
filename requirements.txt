@@ -98,6 +98,7 @@ gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/gitpython_1729040708854/work
 gmpy2 @ file:///C:/b/abs_d8ki0o0h97/croot/gmpy2_1738085498525/work
 greenlet @ file:///C:/b/abs_bbl_18a2tm/croot/greenlet_1733860081977/work
+gunicorn==26.0.0
 h11 @ file:///C:/b/abs_224rqu7kel/croot/h11_1748442031959/work
 h5py @ file:///C:/Users/dev-admin/buildout/croot/h5py_1739563828046/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
